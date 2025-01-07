@@ -75,11 +75,11 @@
 3. Ajoutez un sous-programme qui permet de vérifier si un utilisateur existe déjà dans la base de données (par exemple, en fonction de l'email) et retourne un message d'erreur si nécessaire.
 
 ### Semaine 7 : SQL et Accès aux Données
-**Daily 31** : Introduction à SQL et accès aux bases de données depuis COBOL  
-**Daily 32** : Connexion à une base de données PostgreSQL avec COBOL  
+**Daily 31** : Introduction à SQL et accès aux bases de données   
+**Daily 32** : Connexion à une base de données PostgreSQL   
 **Daily 33** : Requêtes SELECT en SQL depuis COBOL  
-**Daily 34** : Insertion de données dans une base de données (INSERT) depuis COBOL  
-**Daily 35** : Mise à jour des données (UPDATE) et suppression (DELETE) depuis COBOL  
+**Daily 34** : Insertion de données dans une base de données (INSERT)   
+**Daily 35** : Mise à jour des données (UPDATE) et suppression (DELETE)   
 
 **Briefs** :  
 1. Créez un programme COBOL pour se connecter à une base de données PostgreSQL et exécuter une requête `SELECT` pour récupérer les informations d'un client.  
