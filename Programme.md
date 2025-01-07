@@ -1,7 +1,7 @@
 # Programme de formation Introduction aux Fondamentaux du COBOL
 
 ### Semaine 1 : Introduction et Fondamentaux de COBOL
-**Daily 1** : Historique de COBOL et rôle dans l’industrie, préparation de l'environnement de Travail 
+**Daily 1** : Historique de COBOL et rôle dans l’industrie, préparation de l'environnement de Travail
 **Daily 2** : Structure d’un programme COBOL : divisions et sections  
 **Daily 3** : Déclaration de variables et types de données  
 **Daily 4** : Initialisation et affectation de valeurs aux variables  
