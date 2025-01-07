@@ -74,7 +74,7 @@
 2. Modifiez ce programme pour insérer un nouvel utilisateur dans la base de données.  
 3. Ajoutez une fonctionnalité pour mettre à jour les informations d'un utilisateur, par exemple, modifier l'adresse d'un client.
    
-### Semaine 67 : Introduction à la Programmation Modulaire
+### Semaine 7 : Introduction à la Programmation Modulaire
 **Daily 26** : Introduction aux subprogrammes (CALL)  
 **Daily 27** : Passage de paramètres dans les subprogrammes  
 **Daily 28** : Retour de valeurs depuis un subprogramme  
