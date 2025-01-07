@@ -62,7 +62,19 @@
 2. Utilisez des boucles pour accéder et afficher les données de chaque produit dans le tableau.  
 3. Ajoutez un mécanisme pour modifier les données d'un produit (par exemple, mise à jour du prix) en fonction de son index dans le tableau.
 
-### Semaine 6 : Introduction à la Programmation Modulaire
+### Semaine 6 : SQL et Accès aux Données
+**Daily 31** : Introduction à SQL et accès aux bases de données   
+**Daily 32** : Connexion à une base de données PostgreSQL   
+**Daily 33** : Requêtes SELECT en SQL depuis COBOL  
+**Daily 34** : Insertion de données dans une base de données (INSERT)   
+**Daily 35** : Mise à jour des données (UPDATE) et suppression (DELETE)   
+
+**Briefs** :  
+1. Créez un programme COBOL pour se connecter à une base de données PostgreSQL et exécuter une requête `SELECT` pour récupérer les informations d'un client.  
+2. Modifiez ce programme pour insérer un nouvel utilisateur dans la base de données.  
+3. Ajoutez une fonctionnalité pour mettre à jour les informations d'un utilisateur, par exemple, modifier l'adresse d'un client.
+   
+### Semaine 67 : Introduction à la Programmation Modulaire
 **Daily 26** : Introduction aux subprogrammes (CALL)  
 **Daily 27** : Passage de paramètres dans les subprogrammes  
 **Daily 28** : Retour de valeurs depuis un subprogramme  
@@ -74,17 +86,6 @@
 2. Modifiez le programme principal pour passer les paramètres au sous-programme.  
 3. Ajoutez un sous-programme qui permet de vérifier si un utilisateur existe déjà dans la base de données (par exemple, en fonction de l'email) et retourne un message d'erreur si nécessaire.
 
-### Semaine 7 : SQL et Accès aux Données
-**Daily 31** : Introduction à SQL et accès aux bases de données   
-**Daily 32** : Connexion à une base de données PostgreSQL   
-**Daily 33** : Requêtes SELECT en SQL depuis COBOL  
-**Daily 34** : Insertion de données dans une base de données (INSERT)   
-**Daily 35** : Mise à jour des données (UPDATE) et suppression (DELETE)   
-
-**Briefs** :  
-1. Créez un programme COBOL pour se connecter à une base de données PostgreSQL et exécuter une requête `SELECT` pour récupérer les informations d'un client.  
-2. Modifiez ce programme pour insérer un nouvel utilisateur dans la base de données.  
-3. Ajoutez une fonctionnalité pour mettre à jour les informations d'un utilisateur, par exemple, modifier l'adresse d'un client.
 
 ### Semaine 8 : Projet Pratique et Révision
 **Daily 36** : Introduction au projet (ex : gestion de stock)  
