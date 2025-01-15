@@ -36,7 +36,6 @@
 2. Modifiez ce programme pour ajouter un nouveau produit à la fin du fichier.  
 3. Ajoutez la gestion des erreurs pour vérifier si le fichier peut être ouvert et manipulé correctement.
 
-
 ### Semaine 4 : Manipulation des Données
 **Daily 16** : Manipulation de chaînes : SUBSTRING  
 **Daily 17** : Concaténation et formatage de chaînes  
@@ -48,7 +47,6 @@
 1. Écrivez un programme qui manipule des codes produits (lettres et chiffres) et extrait une partie du code pour un traitement.  
 2. Utilisez des opérations arithmétiques pour calculer un prix total à partir de plusieurs valeurs (par exemple, prix unitaire * quantité).  
 3. Formatez les résultats sous forme d'un tableau lisible, avec des alignements appropriés.
-
 
 ### Semaine 5 : Structures de Données Complexes
 **Daily 21** : Déclaration de tableaux multi-dimensionnels  
