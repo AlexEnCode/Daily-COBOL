@@ -38,9 +38,9 @@
 
 ### Semaine 4 : Manipulation des Données
 **Daily 16** : Manipulation de chaînes : SUBSTRING  
-**Daily 17** : Concaténation et formatage de chaînes  
-**Daily 18** : Opérations arithmétiques avec des nombres
-**Daily 19** : Finir les briefs précédents
+**Daily 17** : Concaténation et formatage de chaînes   
+**Daily 18** : Opérations arithmétiques avec des nombres   
+**Daily 19** : Finir les briefs précédents    
 **Daily 20** : Contrôle des acquis et révisions 
 
 **Briefs** :  
